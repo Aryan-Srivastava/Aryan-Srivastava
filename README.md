@@ -11,7 +11,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Aryan-Srivastava" alt="Aryan Srivastava's GitHub Activity Graph" width="900"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan-Srivastava&show_icons=true&theme=tokyonight" alt="Aryan Srivastava's GitHub stats" width="450"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Srivastava&theme=dark)" alt="Aryan Srivastava's GitHub streak" width="450" class="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aryan-Srivastava&show_icons=true&theme=tokyonight" alt="Aryan Srivastava's GitHub stats" width="430"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Srivastava&theme=dark)" alt="Aryan Srivastava's GitHub streak" width="430" class="center"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Srivastava&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
