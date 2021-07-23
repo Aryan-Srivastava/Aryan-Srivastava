@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+- 😄 I'm Aryan Srivastava, I am a sophomore undergrad student pursuing **B.Tech(C.S.E.)**.
+- 🌱 I’m currently learning Data Structures and algorithms.
+
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Srivastava&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Srivastava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Aryan-Srivastava/Aryan-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
