@@ -4,9 +4,13 @@
 - 🌱 I’m currently learning Data Structures and algorithms.
 
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Srivastava&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Srivastava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api) ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Srivastava&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Srivastava&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Srivastava&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
