@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=This+is+Aryan+Srivastava)](https://git.io/typing-svg)
 
+
+<img src="https://github.com/Aryan-Srivastava/Aryan-Srivastava/blob/main/monkey.gif" alt="coding monke" width="380" class="center"/>
+
 - 😄 I am a sophomore undergrad student pursuing **B.Tech(C.S.E.)**.
 - 🌱 I’m currently learning DSA and anroid development.
 
