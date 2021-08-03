@@ -7,6 +7,7 @@
 
 - 😄 I am a sophomore undergrad student pursuing **B.Tech(C.S.E.)**.
 - 🌱 I’m currently learning DSA and android development.
+- 🎯 Looking forward to contribute to open source more.
 
 ***
 
