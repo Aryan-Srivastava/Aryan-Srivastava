@@ -15,7 +15,9 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Aryan-Srivastava" alt="Aryan Srivastava's GitHub Activity Graph" width="900"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan-Srivastava&show_icons=true&theme=tokyonight" alt="Aryan Srivastava's GitHub stats" width="410"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Srivastava&theme=dark)" alt="Aryan Srivastava's GitHub streak" width="410" class="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aryan-Srivastava&show_icons=true&theme=tokyonight" alt="Aryan Srivastava's GitHub stats" width="410"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Srivastava&theme=dark)" alt="Aryan Srivastava's GitHub streak" width="410"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Srivastava&layout=compact)
 
 ---
 
@@ -31,5 +33,11 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="35" height="35"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="33" height="33"/> </a>
-</a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>  </p>
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="35" height="35"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="33" height="33"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> 
+</p>
