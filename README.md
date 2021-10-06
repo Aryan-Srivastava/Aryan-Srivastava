@@ -1,9 +1,8 @@
-# Hi there 👋
+# Hi folks 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=This+is+Aryan+Srivastava)](https://git.io/typing-svg)
 
-
-<img src="https://github.com/Aryan-Srivastava/Aryan-Srivastava/blob/main/monkey.gif" alt="coding monke" width="380" class="center"/>
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="coding monke" width="380"/>
 
 - 😄 I am a pre-final undergrad student pursuing **B.Tech(C.S.E.)**.
 - 🌱 I’m currently learning DSA and android development.
