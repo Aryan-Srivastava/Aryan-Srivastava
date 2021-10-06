@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Aryan-Srivastava/Aryan-Srivastava/blob/main/monkey.gif" alt="coding monke" width="380" class="center"/>
 
-- 😄 I am a sophomore undergrad student pursuing **B.Tech(C.S.E.)**.
+- 😄 I am a pre-final undergrad student pursuing **B.Tech(C.S.E.)**.
 - 🌱 I’m currently learning DSA and android development.
 - 🎯 Looking forward to contribute to open source more.
 
