@@ -12,7 +12,7 @@
 
 # Stats: ✨
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan-Srivastava&show_icons=true&theme=tokyonight" alt="Aryan Srivastava's GitHub stats" width="410"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Srivastava&theme=dark)" alt="Aryan Srivastava's GitHub streak" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aryan-Srivastava&show_icons=true&theme=tokyonight" alt="Aryan Srivastava's GitHub stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Srivastava&theme=dark)" alt="Aryan Srivastava's GitHub streak" width="400"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Srivastava&layout=compact)
 
