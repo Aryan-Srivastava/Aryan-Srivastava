@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="coding monke" width="380"/>
 
-- 😄 I am a pre-final undergrad student pursuing **B.Tech(C.S.E.)**.
+- 😄 I am a final year undergrad student pursuing **B.Tech(C.S.E.)**.
 - 🌱 I’m currently learning DSA and web development.
 - 🎯 Looking forward to contribute to open source more.
 
