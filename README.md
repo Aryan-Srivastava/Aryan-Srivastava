@@ -1,7 +1,6 @@
-# Hi folks <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+# Hi folks <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=This+is+Aryan+Srivastava)](https://github.com/Aryan-Srivastava/)
-
 
 
 ## About me
