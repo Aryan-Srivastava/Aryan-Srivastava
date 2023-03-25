@@ -15,7 +15,7 @@
 
 - 🎯 Looking forward to contribute to open source more.
 
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1LgFqzaM90J790pFF7zpmn5VKaXfvUpKJ/view)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1QNdwv3m_49jSJhGBz0aeAtq7--vqSwRz/view)
 
 <br/>
 
